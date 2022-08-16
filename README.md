@@ -6,7 +6,7 @@
   👀 I am Malay      
   💻 I'm a FrontEnd Developer   
   🎓 I'm a Second year Bsc Physics student     
-  🤖 I'm currently learning flutter and Typescript 
+  🤖 I'm currently learning Flutter and Typescript 
   
 ## Tech Stack 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
