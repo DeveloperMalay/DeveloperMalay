@@ -4,8 +4,8 @@
   ## About Me 👩‍💼
  
   👀 I am Malay      
-  💻 I'm a FrontEnd Developer   
-  🎓 I'm a Second year Bsc Physics student     
+  💻 I'm a Fluter Developer   
+  🎓 I'm a Third year Bsc Physics student     
   🤖 I'm currently learning Flutter and Typescript 
   
 ## Tech Stack 
