@@ -4,7 +4,7 @@
   ## About Me 👩‍💼
  
   👀 I am Malay      
-  💻 I'm a Fluter Developer   
+  💻 I'm a Flutter Developer   
   🎓 I'm a Third year Bsc Physics student     
   🤖 I'm currently learning Bloc State Management for flutter  
   
