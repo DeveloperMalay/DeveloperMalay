@@ -6,7 +6,7 @@
   👀 I am Malay      
   💻 I'm a Flutter Developer   
   🎓 I'm a Third year Bsc Physics student     
-  🤖 I'm currently learning Custom Painter and Animations for flutter  
+  🤖 I'm currently learning Riverpod,hooks_riverpod for flutter state management 
   
 ## Tech Stack 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
