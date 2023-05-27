@@ -6,7 +6,7 @@
   👀 I am Malay      
   💻 I'm a Flutter Developer   
   🎓 I'm a Third year Bsc Physics student     
-  🤖 I'm currently learning kotlin and android development
+  🤖 I'm currently learning native app developer and laravel framework for backend
   
 ## Tech Stack 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
