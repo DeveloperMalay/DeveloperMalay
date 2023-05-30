@@ -1,6 +1,6 @@
-  ## Hello there 👋
-  
-  
+
+<h1 align="center">Hi 👋, I'm Malay Pandit</h1>
+    
 <!--   ## About Me 👩‍💼 -->
  
  # 💫 About Me:
