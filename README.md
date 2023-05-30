@@ -1,7 +1,7 @@
   ## Hello there 👋
   
   
-  ## About Me 👩‍💼
+<!--   ## About Me 👩‍💼 -->
  
  # 💫 About Me:
 👀 I am Malay<br>💻 I'm a Flutter Developer<br>🎓 I'm a Third-year Bsc Physics student<br>🤖 I'm currently learning native app developer and Laravel framework for the backend
