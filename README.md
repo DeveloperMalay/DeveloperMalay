@@ -4,7 +4,7 @@
 <!--   ## About Me 👩‍💼 -->
  
  # 💫 About Me:
-💻 I'm a Flutter Developer<br>🤖 I'm currently learning native app Development like Kotlin for Android and Swift for IOS
+💻 I'm a Mobile Developer<br>🤖 I'm currently learning native app Development like Kotlin for Android and Swift for IOS
 
 
 ## 🌐 Socials:
