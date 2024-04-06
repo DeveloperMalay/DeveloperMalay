@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Malay Pandit</h1>
     
-<!--   ## About Me 👩‍💼 -->
+<!--  ## About Me 👩‍💼 -->
  
  # 💫 About Me:
 💻 I'm a Mobile App Developer<br>🤖 I'm currently learning native app Development like Kotlin and jetpack compose for Android
