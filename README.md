@@ -4,7 +4,7 @@
 <!--  ## About Me 👩‍💼 -->
  
  # 💫 About Me:
-💻 I'm a Mobile App Developer<br>🤖 I'm currently learning Native App Development like Kotlin and Jetpack compose for Android
+💻 I'm a Mobile App Developer<br>🤖 I'm currently learning Native App Development like Kotlin and Jetpack Compose for Android
 
 
 ## 🌐 Socials:
