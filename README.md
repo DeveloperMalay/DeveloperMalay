@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Malay Pandit</h1>
+<h1 align="center">Hi 👋, I'm Malay </h1>
     
 <!--  ## About Me 👩‍💼 -->
  
