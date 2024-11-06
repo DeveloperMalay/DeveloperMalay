@@ -4,7 +4,7 @@
 <!--  ## About Me 👩‍💼 -->
  
  # 💫 About Me:
-💻 I'm a Mobile App Developer<br>🤖 I'm currently learning Spring Boot with kotlin and web development
+💻 I'm a Mobile App Developer<br>🤖 I'm currently learning backend development and web development
 
 
 ## 🌐 Socials:
