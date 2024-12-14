@@ -4,7 +4,7 @@
 <!--  ## About Me 👩‍💼 -->
  
  # 💫 About Me:
-💻 I'm a Software Developer<br>🤖 I'm currently learning backend development and web development
+💻 I'm a Software Developer<br>🤖 I'm currently learning Backend Development and Web Development
 
 
 ## 🌐 Socials:
